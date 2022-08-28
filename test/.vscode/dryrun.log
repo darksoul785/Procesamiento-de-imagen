@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/david/projects/test'
+"g++" main.cpp -o output `pkg-config --cflags  --libs opencv4`
+make: Leaving directory '/home/david/projects/test'
+ 
