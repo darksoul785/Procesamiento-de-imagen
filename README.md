@@ -1,10 +1,15 @@
-# Procesamiento de imagen
+# Procesamiento de imagen / Digital Image Processing
 ### Signature given by Alma Nayeli Rodriguez Vazquez
 Here we learn about how a digital image is done, an also worked with [OpenCV](https://opencv.org/),
 a library that works with media using artificial vision
 
 
 ## These are some examples
-######RGB split
-~
-######
+ * RGB split
+
+ * Grey scale
+
+ * Brightness & constrast
+
+ * Complementary colors
+ * Video & LiveCamera
